@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DamDev0
-- I'm 42 years old. 
 - 🌱 I’m currently learning dev web full-stack and mobile apps to change my actual boring career. 
 - 💞️ I’m looking to collaborate on front-end at start and then on back-end. 
 <!---
